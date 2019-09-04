@@ -3,6 +3,7 @@
 /**
  * @license    GPL 2 (http://www.gnu.org/licenses/gpl.html)
  *
+ * @author Paulo Ricardo Schopf <pschopf@gmail.com>
  * @author Maykon Oliveira <maykonoliveira850@gmail.com>
  * @author José Vieira <jmsv63@gmail.com>
  * @author José Carlos Monteiro <jose.c.monteiro@netcabo.pt>
@@ -220,7 +221,7 @@ $lang['youarehere']            = 'Está aqui:';
 $lang['lastmod']               = 'Esta página foi modificada pela última vez em:';
 $lang['by']                    = 'por';
 $lang['deleted']               = 'Documento automaticamente removido.';
-$lang['created']               = 'Criação deste novo documento.';
+$lang['created']               = 'criação';
 $lang['restored']              = 'Versão anterior restaurada (%s)';
 $lang['external_edit']         = 'Edição externa';
 $lang['summary']               = 'Sumário da Edição';
